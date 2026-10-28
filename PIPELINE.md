@@ -1,7 +1,7 @@
 Stage: Parked
 Since: 2026-10-26
 Kind: mirror (upstream: deadinside28/bloodborne_pc)
-Spec: upstream's   Roadmap: upstream's   Code map: none
+Spec: upstream's   Roadmap: upstream's   Code map: docs/code-map.md
 Platforms: linux
 Notes: Reference mirror (board: Parked, mode Sync-only). The base the other PS4 ports are built on; the daily fork sync keeps it current. Agent rules for our pipeline: AGENTS.fork.md; our history: CHANGELOG.fork.md.
 
